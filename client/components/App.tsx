@@ -1,9 +1,7 @@
 function App() {
   return (
     <>
-      <header className="header">
-        <h1>My Collection</h1>
-      </header>
+      <header className="header"></header>
       <section className="main">{/* add your code here */}</section>
     </>
   )
